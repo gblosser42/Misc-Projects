@@ -1,0 +1,15 @@
+{
+  "name": "EX3Tracker",
+  "version": "1.0.0",
+  "description": "Exalted 3rd edition combat tracker",
+  "main": "tracker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Glen Blosser",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^0.9.0",
+    "prompt": "^0.2.14"
+  }
+}
