@@ -11,7 +11,7 @@ prompt.start();
 prompt.message = '>';
 prompt.delimiter = '>';
 
-function load(file,cb) {
+function load(file, cb) {
 	var entries;
 	file = './' + file;
 	if (fs.existsSync(file)) {
@@ -21,8 +21,8 @@ function load(file,cb) {
 			entries.pop();
 		}
 		async.eachSeries(entries, function (entry, next) {
-			if(entry.indexOf('#') === -1) {
-				entry = entry.replace(/\t/g,' ').replace(/[ ]+/g,' ').split(' ');
+			if (entry.indexOf('#') === -1) {
+				entry = entry.replace(/\t/g, ' ').replace(/[ ]+/g, ' ').split(' ');
 				prompt.get([entry[0].replace(/_/g, ' ') + ' initiative'], function (err, results) {
 					if (results[entry[0].replace(/_/g, ' ') + ' initiative'] !== '-1') {
 						add(entry[0].replace(/_/g, ' '), results[entry[0].replace(/_/g, ' ') + ' initiative'], entry[1], entry[1], entry[2], entry[3], entry[4], entry[5]);
@@ -84,7 +84,7 @@ function next() {
 			actor.motes = Math.min(actor.motes + 5, actor.maxMotes);
 			output += ' ' + actor.name + ',';
 		});
-		output = output.replace(/,$/,'');
+		output = output.replace(/,$/, '');
 		console.log(output);
 		back.push(function (un) {
 			if (un === 'undo') {
@@ -237,7 +237,7 @@ function decisive(attacker, defender, amount, reset) {
 
 function remove(name) {
 	var actor = tracker[name];
-	if(!!actor) {
+	if (!!actor) {
 		delete tracker[name];
 		back.push(function (un) {
 			if (un === 'undo') {
@@ -303,8 +303,8 @@ function copy(oldName, name, initiative) {
 	newActor.name = name;
 	newActor.initiative = initiative;
 	tracker[name] = newActor;
-	back.push(function(un) {
-		if (un==='undo') {
+	back.push(function (un) {
+		if (un === 'undo') {
 			delete tracker[name];
 			console.log('Undoing copying ' + oldName);
 		} else {
@@ -315,23 +315,37 @@ function copy(oldName, name, initiative) {
 }
 
 function help() {
-	Object.keys(directMenu).forEach(function(entry){console.log(entry);});
+	Object.keys(helpMenu).forEach(function (entry) {console.log(entry + ' - ' + helpMenu[entry]);});
 }
 
 function save(name, file) {
 	var player;
 	file = file || 'players';
 	file = './' + file;
-	if(!fs.existsSync(file)) {
+	if (!fs.existsSync(file)) {
 		fs.appendFileSync(file, '#name motes willpower health defense soak\n');
 	}
-	if(name.toLowerCase() !== 'all') {
+	if (name.toLowerCase() !== 'all') {
 		player = tracker[name];
-		fs.appendFileSync(file, [name,player.maxMotes,player.willpower,player.health,player.defense,player.soak].join(' ') + '\n');
+		fs.appendFileSync(file, [
+			name,
+			player.maxMotes,
+			player.willpower,
+			player.health,
+			player.defense,
+			player.soak
+		].join(' ') + '\n');
 	} else {
 		Object.keys(tracker).forEach(function (pname) {
 			player = tracker[pname];
-			fs.appendFileSync(file, [pname,player.maxMotes,player.willpower,player.health,player.defense,player.soak].join(' ') + '\n');
+			fs.appendFileSync(file, [
+				pname,
+				player.maxMotes,
+				player.willpower,
+				player.health,
+				player.defense,
+				player.soak
+			].join(' ') + '\n');
 		});
 	}
 }
@@ -500,6 +514,27 @@ var directMenu = {
 	exit: ''
 };
 
+var helpMenu = {
+	add: 'Adds a new actor to the combat. Takes in name, initiative, motes, maximum motes, willpower, health, defense and soak',
+	next: 'Moves to the next actor, listing their name(s) and the current tick. If no more actors remain, moves to the next turn and displays a list of all actors and initiative scores',
+	n: 'Alias for next',
+	set: 'Sets an actor\'s trait to a new value. Takes in name, attribute and new value.',
+	modify: 'Modifies an actor\'s trait by a given amount. Takes in name, attribute and value.',
+	wither: 'Inflicts withering damage on a target by a source. Transfers the taken initiative, and handles Crash. Takes in attacker, defender and amount',
+	withering: 'Alias for wither',
+	decisive: 'Inflicts decisive damage on a target by an attacker. Takes in attacker, defender, amount and the initiative to reset the attacker to',
+	remove: 'Removes an actor. Takes in name',
+	list: 'Lists all active actors and their initiative scores',
+	details: 'Lists all details about a specific actor. Takes in name',
+	undo: 'Undoes the last command. Can be called multiple times in a row',
+	redo: 'Redoes the last undone command. Can be called multiple times in a row',
+	help: 'Displays a list of all commands',
+	copy: 'Copies an actor with a new name and initiative. Takes in target, new name and initiative score',
+	save: 'Saves an actor to a file. Will append to the given file, or create it if necessary. Takes in name and an optional filepath. If name is all, saves all active actors',
+	load: 'Loads actors from a file. Takes in filename, and will prompt for initiative scores.',
+	exit: 'Exits the program'
+};
+
 function terminal() {
 	prompt.get(['command'], function (err, results) {
 		var command,
@@ -511,7 +546,16 @@ function terminal() {
 		command = results.command;
 		name = command;
 		if (command !== 'exit') {
-			if (JSON.stringify(['undo','redo','list','details','help','save','copy','load']).indexOf(command.split(' ')[0]) === -1) {
+			if (JSON.stringify([
+					'undo',
+					'redo',
+					'list',
+					'details',
+					'help',
+					'save',
+					'copy',
+					'load'
+				]).indexOf(command.split(' ')[0]) === -1) {
 				forward = [];
 			}
 			if (results.command.indexOf(' ') < 0) {
@@ -528,7 +572,7 @@ function terminal() {
 					terminal();
 				}
 			} else {
-				parts = command.replace(/\b(to|'s|by|have|for|with|on|against|resetting|levels|level)\b/g,'').replace(/[ ]+/g,' ').split(' ');
+				parts = command.replace(/\b(to|'s|by|have|for|with|on|against|resetting|levels|level)\b/g, '').replace(/[ ]+/g, ' ').split(' ');
 				console.log(parts);
 				parts.forEach(function (param, index) {
 					parts[index] = param.replace(/_/g, ' ');
