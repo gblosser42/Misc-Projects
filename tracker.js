@@ -27,6 +27,8 @@ function load(file, cb) {
 					if (results[entry[0].replace(/_/g, ' ') + ' initiative'] !== '-1') {
 						add(entry[0].replace(/_/g, ' '), results[entry[0].replace(/_/g, ' ') + ' initiative'], entry[1], entry[1], entry[2], entry[3], entry[4], entry[5]);
 						next();
+					} else {
+						next();
 					}
 				});
 			} else {
