@@ -575,7 +575,6 @@ function terminal() {
 				}
 			} else {
 				parts = command.replace(/\b(to|'s|by|have|for|with|on|against|resetting|levels|level)\b/g, '').replace(/[ ]+/g, ' ').split(' ');
-				console.log(parts);
 				parts.forEach(function (param, index) {
 					parts[index] = param.replace(/_/g, ' ');
 				});
