@@ -1,0 +1,2567 @@
+001	Bulbasaur
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+45+D	49+E	65+D	65+D	65+D	45+E	10+F	+	+	6
+
+Type: Grass/poison
+Ability: Overgrow Or Chlorophyll
+Evolution: 
+Egg Group: Monster And Grass
+Gender Ratio: 87% Male, 13% Female 
+Egg Points to Hatch: 21
+Exp Value: 64
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+002	Ivysaur
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+60+C	62+D	63+D	80+C	80+C	60+D	10+F	+	+	6
+
+Type: Grass/poison
+Ability: Overgrow Or Chlorophyll
+Evolution: 
+Egg Group: Monster And Grass
+Gender Ratio: 87% Male, 13% Female 
+Egg Points to Hatch: 21
+Exp Value: 141
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+003	Venusaur
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+80+B	82+C	83+C	100+B	100+B	80+C	10+F	+	+	6
+
+Type: Grass/poison
+Ability: Overgrow Or Chlorophyll
+Evolution: 
+Egg Group: Monster And Grass
+Gender Ratio: 87% Male, 13% Female 
+Egg Points to Hatch: 21
+Exp Value: 208
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+004	Charmander
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+39+D	52+D	43+E	60+D	50+D	65+D	10+F	+	+	6
+
+Type: Fire
+Ability: Blaze Or Solar Power
+Evolution: 
+Egg Group: Dragon And Monster
+Gender Ratio: 87% Male, 13% Female 
+Egg Points to Hatch: 21
+Exp Value: 65
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+005	Charmeleon
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+58+C	64+D	58+D	80+C	65+D	80+C	10+F	+	+	6
+
+Type: Fire
+Ability: Blaze Or Solar Power
+Evolution: 
+Egg Group: Dragon And Monster
+Gender Ratio: 87% Male, 13% Female 
+Egg Points to Hatch: 21
+Exp Value: 142
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+006	Charizard
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+78+B	84+C	78+C	109+B	85+C	100+B	10+F	+	+	6
+
+Type: Fire/flying
+Ability: Blaze Or Solar Power
+Evolution: 
+Egg Group: Dragon And Monster
+Gender Ratio: 87% Male, 13% Female 
+Egg Points to Hatch: 21
+Exp Value: 209
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+007	Squirtle
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+44+D	48+E	65+D	50+D	64+D	43+E	10+F	+	+	6
+
+Type: Water
+Ability: Torrent Or Rain Dish
+Evolution: 
+Egg Group: Monster/water1
+Gender Ratio: 87% Male, 13% Female 
+Egg Points to Hatch: 21
+Exp Value: 66
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+008	Wartortle
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+59+C	63+D	80+C	65+D	80+C	58+D	10+F	+	+	6
+
+Type: Water
+Ability: Torrent Or Rain Dish
+Evolution: 
+Egg Group: Monster/water1
+Gender Ratio: 87% Male, 13% Female 
+Egg Points to Hatch: 21
+Exp Value: 143
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+009	Blastoise
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+79+B	83+C	100+B	85+C	105+B	78+C	10+F	+	+	6
+
+Type: Water
+Ability: Torrent Or Rain Dish
+Evolution: 
+Egg Group: Monster/water1
+Gender Ratio: 87% Male, 13% Female 
+Egg Points to Hatch: 21
+Exp Value: 210
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+010	Caterpie
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+45+D	30+E	35+E	20+E	20+E	45+E	10+F	+	+	6
+
+Type: Bug
+Ability: Shield Dust Or Run Away
+Evolution: 
+Egg Group: Bug
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 16
+Exp Value: 53
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+011	Metapod
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+50+C	20+E	55+D	25+E	25+E	30+E	10+F	+	+	6
+
+Type: Bug
+Ability: Shed Skin
+Evolution: 
+Egg Group: Bug
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 16
+Exp Value: 72
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+012	Butterfree
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+60+C	45+E	50+D	90+C	80+C	70+D	10+F	+	+	6
+
+Type: Bug/flying
+Ability: Compound Eyes Or Tinted Lens
+Evolution: 
+Egg Group: Bug
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 16
+Exp Value: 160
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+013	Weedle
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+40+D	35+E	30+E	20+E	20+E	50+D	10+F	+	+	6
+
+Type: Bug/poison
+Ability: Shield Dust Or Run Away
+Evolution: 
+Egg Group: Bug
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 16
+Exp Value: 52
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+014	Kakuna
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+45+D	25+E	50+D	25+E	25+E	35+E	10+F	+	+	6
+
+Type: Bug/poison
+Ability: Shed Skin
+Evolution: 
+Egg Group: Bug
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 16
+Exp Value: 71
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+015	Beedrill
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+65+C	90+C	40+E	45+E	80+C	75+C	10+F	+	+	6
+
+Type: Bug/poison
+Ability: Swarm Or Sniper
+Evolution: 
+Egg Group: Bug
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 16
+Exp Value: 159
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+016	Pidgey
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+40+D	45+E	40+E	35+E	35+E	56+D	10+F	+	+	6
+
+Type: Normal/flying
+Ability: Keen Eye Or Tangled Feet
+Evolution: 
+Egg Group: Flying
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 16
+Exp Value: 55
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+017	Pidgeotto
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+63+C	60+D	55+D	50+D	50+D	71+D	10+F	+	+	6
+
+Type: Normal/flying
+Ability: Keen Eye Or Tangled Feet
+Evolution: 
+Egg Group: Flying
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 16
+Exp Value: 113
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+018	Pidgeot
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+83+B	80+C	75+C	70+D	0+E	101+B	10+F	+	+	6
+
+Type: Normal/flying
+Ability: Keen Eye Or Tangled Feet
+Evolution: 
+Egg Group: Flying
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 16
+Exp Value: 172
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+019	Rattata
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+30+D	56+D	35+E	25+E	35+E	72+D	10+F	+	+	6
+
+Type: Normal
+Ability: Guts Or Run Away
+Evolution: 
+Egg Group: Field
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 16
+Exp Value: 57
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+020	Raticate
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+55+C	81+C	60+D	50+D	70+D	87+C	10+F	+	+	6
+
+Type: Normal
+Ability: Guts Or Run Away
+Evolution: 
+Egg Group: Field
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 16
+Exp Value: 116
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+021	Spearow
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+40+D	60+D	30+E	31+E	31+E	70+D	10+F	+	+	6
+
+Type: Normal/flying
+Ability: Keen Eye Or Sniper
+Evolution: 
+Egg Group: Flying
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 16
+Exp Value: 58
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+022	Fearow
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+65+C	90+C	65+D	61+D	61+D	100+B	10+F	+	+	6
+
+Type: Normal/flying
+Ability: Keen Eye Or Sniper
+Evolution: 
+Egg Group: Flying
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 16
+Exp Value: 162
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+023	Ekans
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+35+D	60+D	44+E	40+E	54+D	55+D	10+F	+	+	6
+
+Type: Poison
+Ability: Intimidate Or Shed Skin
+Evolution: 
+Egg Group: Dragon And Field
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 62
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+024	Arbok
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+60+C	85+C	69+D	65+D	79+C	80+C	10+F	+	+	6
+
+Type: Poison
+Ability: Intimidate Or Shed Skin
+Evolution: 
+Egg Group: Dragon And Field
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 147
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+025	Pikachu
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+35+D	55+D	40+E	50+D	50+D	90+C	10+F	+	+	6
+
+Type: Electric
+Ability: Static Or Lightning Rod
+Evolution: 
+Egg Group: Fairy And Field
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 11
+Exp Value: 82
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+026	Raichu
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+60+C	90+C	55+D	90+C	80+C	110+B	10+F	+	+	6
+
+Type: Electric
+Ability: Static Or Lightning Rod
+Evolution: 
+Egg Group: Fairy And Field
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 11
+Exp Value: 122
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+027	Sandshrew
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+50+C	75+C	85+C	20+E	30+E	40+E	10+F	+	+	6
+
+Type: Ground
+Ability: Sand Veil Or Sand Rush
+Evolution: 
+Egg Group: Field
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 92
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+028	Sandslash
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+75+B	100+B	110+B	45+E	55+D	65+D	10+F	+	+	6
+
+Type: Ground
+Ability: Sand Veil Or Sand Rush
+Evolution: 
+Egg Group: Field
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 163
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+029	Nidoran♀
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+55+C	47+E	52+D	40+E	40+E	41+E	10+F	+	+	6
+
+Type: Poison
+Ability: Poison Point Or Rivalry
+Evolution: 
+Egg Group: Field And Monster
+Gender Ratio: 0% Male, 100% Female 
+Egg Points to Hatch: 21
+Exp Value: 59
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+030	Nidorina
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+70+C	62+D	67+D	55+D	55+D	56+D	10+F	+	+	6
+
+Type: Poison
+Ability: Poison Point Or Rivalry
+Evolution: 
+Egg Group: Undiscovered
+Gender Ratio: 0% Male, 100% Female 
+Egg Points to Hatch: 21
+Exp Value: 117
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+031	Nidoqueen
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+90+B	92+C	87+C	75+C	85+C	76+C	10+F	+	+	6
+
+Type: Poison/ground
+Ability: Poison Point Or Rivalry
+Evolution: 
+Egg Group: Undiscovered
+Gender Ratio: 0% Male, 100% Female 
+Egg Points to Hatch: 21
+Exp Value: 194
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+032	Nidoran♂
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+46+D	57+D	40+E	40+E	40+E	50+D	10+F	+	+	6
+
+Type: Poison
+Ability: Poison Point Or Rivalry
+Evolution: 
+Egg Group: Field And Monster
+Gender Ratio: 100% Male, 0% Female 
+Egg Points to Hatch: 21
+Exp Value: 60
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+033	Nidorino
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+61+C	72+D	57+D	55+D	55+D	65+D	10+F	+	+	6
+
+Type: Poison
+Ability: Poison Point Or Rivalry
+Evolution: 
+Egg Group: Field And Monster
+Gender Ratio: 100% Male, 0% Female 
+Egg Points to Hatch: 21
+Exp Value: 118
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+034	Nidoking
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+81+B	102+B	77+C	85+C	75+C	85+C	10+F	+	+	6
+
+Type: Poison/ground
+Ability: Poison Point Or Rivalry
+Evolution: 
+Egg Group: Field And Monster
+Gender Ratio: 100% Male, 0% Female 
+Egg Points to Hatch: 21
+Exp Value: 195
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+035	Clefairy
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+70+C	45+E	48+E	60+D	65+D	35+E	10+F	+	+	6
+
+Type: Fairy
+Ability: Cute Charm Or Magic Guard
+Evolution: 
+Egg Group: Fairy
+Gender Ratio: 25% Male, 75% Female 
+Egg Points to Hatch: 11
+Exp Value: 68
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+036	Clefable
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+95+B	70+D	73+D	95+C	90+C	60+D	10+F	+	+	6
+
+Type: Fiary
+Ability: Cute Charm Or Magic Guard
+Evolution: 
+Egg Group: Fairy
+Gender Ratio: 25% Male, 75% Female 
+Egg Points to Hatch: 11
+Exp Value: 129
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+037	Vulpix
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+38+D	41+E	40+E	50+D	65+D	65+D	10+F	+	+	6
+
+Type: Fire
+Ability: Flash Fire Or Drought
+Evolution: 
+Egg Group: Field
+Gender Ratio: 25% Male, 75% Female 
+Egg Points to Hatch: 21
+Exp Value: 63
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+038	Ninetails
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+73+C	76+C	75+C	81+C	100+B	100+B	10+F	+	+	6
+
+Type: Fire
+Ability: Flash Fire Or Drought
+Evolution: 
+Egg Group: Field
+Gender Ratio: 25% Male, 75% Female 
+Egg Points to Hatch: 21
+Exp Value: 178
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+039	Jigglypuff
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+115+S	45+E	20+E	45+E	25+E	20+E	10+F	+	+	6
+
+Type: Normal/fairy
+Ability: Competetive Or Cute Charm
+Evolution: 
+Egg Group: Fairy
+Gender Ratio: 25% Male, 75% Female 
+Egg Points to Hatch: 11
+Exp Value: 76
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+040	Wigglytuff
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+140+SSS	70+D	45+E	85+C	50+D	45+E	10+F	+	+	6
+
+Type: Nomral/fairy
+Ability: Competetive Or Cute Charm
+Evolution: 
+Egg Group: Fairy
+Gender Ratio: 25% Male, 75% Female 
+Egg Points to Hatch: 11
+Exp Value: 109
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+041	Zubat
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+40+D	45+E	35+E	30+E	40+E	55+D	10+F	+	+	6
+
+Type: Poison/flying
+Ability: Inner Focus Or Infiltrator
+Evolution: 
+Egg Group: Flying
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 16
+Exp Value: 54
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+042	Golbat
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+75+B	80+C	70+D	65+D	75+C	90+C	10+F	+	+	6
+
+Type: Poison/flying
+Ability: Inner Focus Or Infiltrator
+Evolution: 
+Egg Group: Flying
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 16
+Exp Value: 171
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+043	Oddish
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+45+D	50+D	55+D	75+C	65+D	30+E	10+F	+	+	6
+
+Type: Grass/poison
+Ability: Chlorophyll Or Run Away
+Evolution: 
+Egg Group: Grass
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 78
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+044	Gloom
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+60+C	65+D	70+D	85+C	75+C	40+E	10+F	+	+	6
+
+Type: Grass/poison
+Ability: Chlorophyll Or Run Away
+Evolution: 
+Egg Group: Grass
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 132
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+045	Vileplume
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+75+B	80+C	85+C	110+B	90+C	50+D	10+F	+	+	6
+
+Type: Grass/poison
+Ability: Chlorophyll Or Effect Spore
+Evolution: 
+Egg Group: Grass
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 184
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+046	Paras
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+35+D	70+D	55+D	45+E	55+D	25+E	10+F	+	+	6
+
+Type: Bug/grass
+Ability: Dry Skin Or Effect Spore
+Evolution: 
+Egg Group: Bug And Grass
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 70
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+047	Parasect
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+60+C	95+C	80+C	60+D	80+C	30+E	10+F	+	+	6
+
+Type: Bug/grass
+Ability: Dry Skin Or Effect Spore
+Evolution: 
+Egg Group: Bug And Grass
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 128
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+048	Venonat
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+60+C	55+D	50+D	40+E	55+D	45+E	10+F	+	+	6
+
+Type: Bug/poison
+Ability: Compound Eye Or Tinted Lens
+Evolution: 
+Egg Group: Bug
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 75
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+049	Venomoth
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+70+C	65+D	60+D	90+C	75+C	90+C	10+F	+	+	6
+
+Type: Bug/poison
+Ability: Compound Eye Or Tinted Lens
+Evolution: 
+Egg Group: Bug
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 138
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+050	Diglett
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+10+E	55+D	25+E	35+E	45+E	95+C	10+F	+	+	6
+
+Type: Dground
+Ability: Arena Trap Or Sand Veil
+Evolution: 
+Egg Group: Field
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 81
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+051	Dugtrio
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+35+D	80+C	50+D	50+D	70+D	120+B	10+F	+	+	6
+
+Type: Ground
+Ability: Arena Trap Or Sand Veil
+Evolution: 
+Egg Group: Field
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 153
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+052	Meowth
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+40+D	45+E	35+E	40+E	40+E	90+C	10+F	+	+	6
+
+Type: Normal
+Ability: Pickup Or Technician
+Evolution: 
+Egg Group: Field
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 69
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+053	Persian
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+65+C	70+D	60+D	65+D	65+D	115+B	10+F	+	+	6
+
+Type: Normal
+Ability: Limber Or Technician
+Evolution: 
+Egg Group: Field
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 148
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+054	Psyduck
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+50+C	52+D	48+E	65+D	50+D	55+D	10+F	+	+	6
+
+Type: Water
+Ability: Cloud Nine Or Damp
+Evolution: 
+Egg Group: Field And Water1
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 80
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+055	Golduck
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+80+B	82+C	78+C	95+C	80+C	85+C	10+F	+	+	6
+
+Type: Water
+Ability: Cloud Nine Or Damp
+Evolution: 
+Egg Group: Field And Water1
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 174
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+056	Mankey
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+40+D	80+C	35+E	35+E	45+E	70+D	10+F	+	+	6
+
+Type: Fighting
+Ability: Anger Point Or Vital Spirit
+Evolution: 
+Egg Group: Field
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 74
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+057	Primeape
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+65+C	105+B	60+D	60+D	70+D	95+C	10+F	+	+	6
+
+Type: Fighting
+Ability: Anger Point Or Vital Spirit
+Evolution: 
+Egg Group: Field
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 149
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+058	Growlithe
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+55+C	70+D	45+E	70+D	50+D	60+D	10+F	+	+	6
+
+Type: Fire
+Ability: Flash Fire Or Intimidate
+Evolution: 
+Egg Group: Field
+Gender Ratio: 75% Male, 25% Female 
+Egg Points to Hatch: 21
+Exp Value: 91
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+059	Arcanine
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+90+B	110+B	80+C	100+B	80+C	95+C	10+F	+	+	6
+
+Type: Fire
+Ability: Flash Fire Or Intimidate
+Evolution: 
+Egg Group: Field
+Gender Ratio: 75% Male, 25% Female 
+Egg Points to Hatch: 21
+Exp Value: 213
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+060	Poliwag
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+40+D	50+D	40+E	40+E	40+E	90+C	10+F	+	+	6
+
+Type: Water
+Ability: Damp Or Water Absorb
+Evolution: 
+Egg Group: Water1
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 77
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+061	Poliwhirl
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+65+C	65+D	65+D	50+D	50+D	90+C	10+F	+	+	6
+
+Type: Water
+Ability: Damp Or Water Absorb
+Evolution: 
+Egg Group: Water1
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 131
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+062	Poliwrath
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+90+B	95+C	95+C	70+D	90+C	70+D	10+F	+	+	6
+
+Type: Water
+Ability: Damp Or Water Absorb
+Evolution: 
+Egg Group: Water1
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 185
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+063	Abra
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+25+D	20+E	15+E	105+B	55+D	90+C	10+F	+	+	6
+
+Type: Psychic
+Ability: Inner Focus Or Synchronize
+Evolution: 
+Egg Group: Human-like
+Gender Ratio: 75% Male, 25% Female 
+Egg Points to Hatch: 21
+Exp Value: 75
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+064	Kadabra
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+40+D	35+E	30+E	120+B	70+D	105+B	10+F	+	+	6
+
+Type: Psychic
+Ability: Inner Focus Or Synchronize
+Evolution: 
+Egg Group: Human-like
+Gender Ratio: 75% Male, 25% Female 
+Egg Points to Hatch: 21
+Exp Value: 145
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+065	Alakazam
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+55+C	50+D	45+E	135+A	95+C	120+B	10+F	+	+	6
+
+Type: Psychic
+Ability: Inner Focus Or Synchronize
+Evolution: 
+Egg Group: Human-like
+Gender Ratio: 75% Male, 25% Female 
+Egg Points to Hatch: 21
+Exp Value: 186
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+066	Machop
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+70+C	80+C	50+D	35+E	35+E	35+E	10+F	+	+	6
+
+Type: Fighting
+Ability: Guts Or No Guard
+Evolution: 
+Egg Group: Human-like
+Gender Ratio: 75% Male, 25% Female 
+Egg Points to Hatch: 21
+Exp Value: 75
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+067	Machoke
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+80+B	100+B	70+D	50+D	60+D	45+E	10+F	+	+	6
+
+Type: Fighting
+Ability: Guts Or No Guard
+Evolution: 
+Egg Group: Human-like
+Gender Ratio: 75% Male, 25% Female 
+Egg Points to Hatch: 21
+Exp Value: 146
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+068	Machamp
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+90+B	130+A	80+C	65+D	85+C	55+D	10+F	+	+	6
+
+Type: Fighting
+Ability: Guts Or No Guard
+Evolution: 
+Egg Group: Human-like
+Gender Ratio: 75% Male, 25% Female 
+Egg Points to Hatch: 21
+Exp Value: 193
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+069	Bellsprout
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+50+C	75+C	35+E	70+D	30+E	40+E	10+F	+	+	6
+
+Type: Grass/poison
+Ability: Chlorophyll Or Gluttony
+Evolution: 
+Egg Group: Grass
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 84
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+070	Weepinbell
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+65+C	90+C	50+D	85+C	45+E	55+D	10+F	+	+	6
+
+Type: Grass/poison
+Ability: Chlorophyll Or Gluttony
+Evolution: 
+Egg Group: Grass
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 151
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+071	Victreebell
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+80+B	105+B	65+D	100+B	70+D	70+D	10+F	+	+	6
+
+Type: Grass/poison
+Ability: Chlorophyll Or Gluttony
+Evolution: 
+Egg Group: Grass
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 191
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+072	Tentacool
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+40+D	40+E	35+E	50+D	100+B	70+D	10+F	+	+	6
+
+Type: Water/poison
+Ability: Clear Body Or Liquid Ooze
+Evolution: 
+Egg Group: Water3
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 70
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+073	Tentacruel
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+80+B	70+D	65+D	80+C	120+B	100+B	10+F	+	+	6
+
+Type: Water/poison
+Ability: Clear Body Or Liquid Ooze
+Evolution: 
+Egg Group: Water3
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 205
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+074	Geodude
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+40+D	80+C	100+B	30+E	30+E	20+E	10+F	+	+	6
+
+Type: Rock/ground
+Ability: Rock Head Or Sturdy
+Evolution: 
+Egg Group: Mineral
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 16
+Exp Value: 73
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+075	Graveler
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+55+C	95+C	115+B	45+E	45+E	35+E	10+F	+	+	6
+
+Type: Rock/ground
+Ability: Rock Head Or Sturdy
+Evolution: 
+Egg Group: Mineral
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 16
+Exp Value: 134
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+076	Golem
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+80+B	120+B	130+A	55+D	65+D	45+E	10+F	+	+	6
+
+Type: Rock/ground
+Ability: Rock Head Or Sturdy
+Evolution: 
+Egg Group: Mineral
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 16
+Exp Value: 177
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+077	Ponyta
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+50+C	85+C	55+D	65+D	65+D	90+C	10+F	+	+	6
+
+Type: Fire
+Ability: Flash Fire Or Run Away
+Evolution: 
+Egg Group: Field
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 152
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+078	Rapidash
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+65+C	100+B	70+D	80+C	80+C	105+B	10+F	+	+	6
+
+Type: Fire
+Ability: Flash Fire Or Run Away
+Evolution: 
+Egg Group: Field
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 192
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+079	Slowpoke
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+90+B	65+D	65+D	40+E	40+E	15+E	10+F	+	+	6
+
+Type: Water/psychic
+Ability: Oblivious Or Own Tempo
+Evolution: 
+Egg Group: Monster And Water1
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 99
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+080	Slowbro
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+95+B	75+C	110+B	100+B	80+C	30+E	10+F	+	+	6
+
+Type: Water/psychic
+Ability: Oblivious Or Own Tempo
+Evolution: 
+Egg Group: Monster And Water1
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 164
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+081	Magnemite
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+25+D	35+E	70+D	95+C	55+D	45+E	10+F	+	+	6
+
+Type: Electric/steel
+Ability: Magnet Pull Or Sturdy
+Evolution: 
+Egg Group: Mineral
+Gender Ratio: Genderless
+Egg Points to Hatch: 21
+Exp Value: 89
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+082	Magneton
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+50+C	60+D	95+C	120+B	70+D	70+D	10+F	+	+	6
+
+Type: Electric/steel
+Ability: Magnet Pull Or Sturdy
+Evolution: 
+Egg Group: Mineral
+Gender Ratio: Genderless
+Egg Points to Hatch: 21
+Exp Value: 161
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+083	Farfetch'd
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+52+C	65+D	55+D	58+D	62+D	60+D	10+F	+	+	6
+
+Type: Normal/flying
+Ability: Inner Focus Or Keen Eye
+Evolution: 
+Egg Group: Field And Flying
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 94
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+084	Doduo
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+35+D	85+C	45+E	35+E	35+E	75+C	10+F	+	+	6
+
+Type: Normal/flying
+Ability: Early Bird Or Run Away
+Evolution: 
+Egg Group: Flying
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 96
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+085	Dodrio
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+60+C	110+B	70+D	60+D	60+D	100+B	10+F	+	+	6
+
+Type: Normal/flying
+Ability: Early Bird Or Run Away
+Evolution: 
+Egg Group: Flying
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 158
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+086	Seel
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+65+C	45+E	55+D	45+E	70+D	45+E	10+F	+	+	6
+
+Type: Water
+Ability: Hydration Or Thick Fat
+Evolution: 
+Egg Group: Field And Water1
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 100
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+087	Dewgong
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+90+B	70+D	80+C	70+D	95+C	70+D	10+F	+	+	6
+
+Type: Water/ice
+Ability: Hydration Or Thick Fat
+Evolution: 
+Egg Group: Field And Water1
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 176
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+088	Grimer
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+80+B	80+C	50+D	40+E	50+D	25+E	10+F	+	+	6
+
+Type: Poison
+Ability: Stench Or Sticky Hold
+Evolution: 
+Egg Group: Amorphous
+Gender Ratio: 40% Male, 60% Female 
+Egg Points to Hatch: 21
+Exp Value: 90
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+089	Muk
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+105+A	105+B	75+C	65+D	100+B	50+D	10+F	+	+	6
+
+Type: Poison
+Ability: Stench Or Sticky Hold
+Evolution: 
+Egg Group: Amorphous
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 157
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+090	Shellder
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+30+D	65+D	100+B	45+E	25+E	40+E	10+F	+	+	6
+
+Type: Water
+Ability: Shell Armor Or Skill Link
+Evolution: 
+Egg Group: Water3
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 97
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+091	Cloyster
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+50+C	95+C	180+X	85+C	45+E	70+D	10+F	+	+	6
+
+Type: Water
+Ability: Shell Armor Or Skill Link
+Evolution: 
+Egg Group: Water3
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 203
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+092	Ghastly
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+30+D	35+E	30+E	100+B	35+E	80+C	10+F	+	+	6
+
+Type: Ghost
+Ability: Levitate
+Evolution: 
+Egg Group: Amorphous
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 95
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+093	Haunter
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+45+D	50+D	45+E	115+B	55+D	95+C	10+F	+	+	6
+
+Type: Ghost
+Ability: Levitate
+Evolution: 
+Egg Group: Amorphous
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 126
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+094	Gengar
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+60+C	65+D	60+D	130+A	75+C	110+B	10+F	+	+	6
+
+Type: Ghost
+Ability: Levitate
+Evolution: 
+Egg Group: Amorphous
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 190
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+095	Onix
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+35+D	45+E	160+SS	30+E	45+E	70+D	10+F	+	+	6
+
+Type: Rock/ground
+Ability: Rock Head Or Sturdy
+Evolution: 
+Egg Group: Mineral
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 26
+Exp Value: 108
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+096	Drowzee
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+60+C	48+E	45+E	43+E	90+C	42+E	10+F	+	+	6
+
+Type: Psychic
+Ability: Forewarn Or Insomnia
+Evolution: 
+Egg Group: Human-like
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 102
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+097	Hypno
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+85+B	73+D	70+D	73+D	115+B	67+D	10+F	+	+	6
+
+Type: Psychic
+Ability: Forewarn Or Insomnia
+Evolution: 
+Egg Group: Human-like
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 165
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+098	Krabby
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+30+D	105+B	90+C	25+E	25+E	50+D	10+F	+	+	6
+
+Type: Water
+Ability: Hyper Cutter Or Shell Armor
+Evolution: 
+Egg Group: Water3
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 115
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+099	Kingler
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+55+C	130+A	115+B	50+D	50+D	75+C	10+F	+	+	6
+
+Type: Water
+Ability: Hyper Cutter Or Shell Armor
+Evolution: 
+Egg Group: Water3
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 206
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+100	Voltorb
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+40+D	30+E	50+D	55+D	55+D	100+B	10+F	+	+	6
+
+Type: Electric
+Ability: Soundproof Or Static
+Evolution: 
+Egg Group: Mineral
+Gender Ratio: Genderless
+Egg Points to Hatch: 21
+Exp Value: 103
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+101	Electrode
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+60+C	50+D	70+D	80+C	80+C	140+S	10+F	+	+	6
+
+Type: Electric
+Ability: Soundproof Or Static
+Evolution: 
+Egg Group: Mineral
+Gender Ratio: Genderless
+Egg Points to Hatch: 21
+Exp Value: 150
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+102	Exeggcute
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+60+C	40+E	80+C	60+D	45+E	50+D	10+F	+	+	6
+
+Type: Grass/psychic
+Ability: Chlorophyll Or Harvest
+Evolution: 
+Egg Group: Grass
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 98
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+103	Exeggutor
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+95+B	95+C	85+C	125+A	65+D	55+D	10+F	+	+	6
+
+Type: Grass/psychic
+Ability: Chlorophyll Or Harvest
+Evolution: 
+Egg Group: Grass
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 212
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+104	Cubone
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+50+C	50+D	95+C	40+E	50+D	35+E	10+F	+	+	6
+
+Type: Ground
+Ability: Lightning Rod Or Rock Head
+Evolution: 
+Egg Group: Monster
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 87
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+105	Marowak
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+60+C	80+C	110+B	50+D	80+C	45+E	10+F	+	+	6
+
+Type: Ground
+Ability: Lightning Rod Or Rock Head
+Evolution: 
+Egg Group: Monster
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 124
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+106	Hitmonlee
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+50+C	120+B	53+D	35+E	110+B	87+C	10+F	+	+	6
+
+Type: Fighting
+Ability: Limber Or Reckless
+Evolution: 
+Egg Group: Human-like
+Gender Ratio: 100% Male, 0% Female 
+Egg Points to Hatch: 26
+Exp Value: 139
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+107	Hitomchan
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+50+C	105+B	79+C	35+E	110+B	76+C	10+F	+	+	6
+
+Type: Fighting
+Ability: Iron Fist Or Keen Eye
+Evolution: 
+Egg Group: Human-like
+Gender Ratio: 100% Male, 0% Female 
+Egg Points to Hatch: 26
+Exp Value: 140
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+108	Lickitung
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+90+B	55+D	75+C	60+D	75+C	30+E	10+F	+	+	6
+
+Type: Normal
+Ability: Oblivious Or Own Tempo
+Evolution: 
+Egg Group: Monster
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 127
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+109	Koffing
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+40+D	65+D	95+C	60+D	45+E	35+E	10+F	+	+	6
+
+Type: Poison
+Ability: Levitate
+Evolution: 
+Egg Group: Amorphous
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 114
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+110	Weezing
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+65+C	90+C	120+B	85+C	70+D	60+D	10+F	+	+	6
+
+Type: Poison
+Ability: Levitate
+Evolution: 
+Egg Group: Amorphous
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 173
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+111	Rhyhorn
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+80+B	85+C	95+C	30+E	30+E	25+E	10+F	+	+	6
+
+Type: Rock/ground
+Ability: Lightning Rod Or Rock Head
+Evolution: 
+Egg Group: Field And Monster
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 135
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+112	Rhydon
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+105+A	130+A	120+B	45+E	45+E	40+E	10+F	+	+	6
+
+Type: Rock/ground
+Ability: Lightning Rod Or Rock Head
+Evolution: 
+Egg Group: Field And Monster
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 204
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+113	Chansey
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+250+GOD	5+E	5+E	35+E	105+B	50+D	10+F	+	+	6
+
+Type: Normal
+Ability: Natural Cure Or Serene Grace
+Evolution: 
+Egg Group: Fairy
+Gender Ratio: 0% Male, 100% Female 
+Egg Points to Hatch: 41
+Exp Value: 255
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+114	Tangela
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+65+C	55+D	115+B	100+B	40+E	60+D	10+F	+	+	6
+
+Type: Grass
+Ability: Clorophyll Or Leaf Guard
+Evolution: 
+Egg Group: Grass
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 166
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+115	Kangaskhan
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+105+A	95+C	80+C	40+E	80+C	90+C	10+F	+	+	6
+
+Type: Normal
+Ability: Early Bird Or Scrappy
+Evolution: 
+Egg Group: Monster
+Gender Ratio: 0% Male, 100% Female 
+Egg Points to Hatch: 21
+Exp Value: 175
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+116	Horsea
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+30+D	40+E	70+D	70+D	25+E	60+D	10+F	+	+	6
+
+Type: Water
+Ability: Sniper Or Swift Swim
+Evolution: 
+Egg Group: Dragon And Water1
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 83
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+117	Seadra
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+55+C	65+D	95+C	95+C	45+E	85+C	10+F	+	+	6
+
+Type: Water
+Ability: Sniper Or Poison Point
+Evolution: 
+Egg Group: Dragon And Water1
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 155
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+118	Goldeen
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+45+D	67+D	60+D	35+E	50+D	63+D	10+F	+	+	6
+
+Type: Water
+Ability: Swift Swim Or Water Veil
+Evolution: 
+Egg Group: Water2
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 111
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+119	Seaking
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+80+B	92+C	65+D	65+D	80+C	68+D	10+F	+	+	6
+
+Type: Water
+Ability: Swift Swim Or Water Veil
+Evolution: 
+Egg Group: Water2
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 21
+Exp Value: 170
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+120	Staryu
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+30+D	45+E	55+D	70+D	55+D	85+C	10+F	+	+	6
+
+Type: Water
+Ability: Illuminate Or Natural Cure
+Evolution: 
+Egg Group: Water3
+Gender Ratio: Genderless
+Egg Points to Hatch: 21
+Exp Value: 106
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+121	Starmie
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+60+C	75+C	85+C	100+B	85+C	115+B	10+F	+	+	6
+
+Type: Water/psychic
+Ability: Illuminate Or Natural Cure
+Evolution: 
+Egg Group: Water3
+Gender Ratio: Genderless
+Egg Points to Hatch: 21
+Exp Value: 207
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+122	Mr.mime
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+40+D	45+E	65+D	100+B	120+B	90+C	10+F	+	+	6
+
+Type: Fairy/psychic
+Ability: Filter Or Soundproof
+Evolution: 
+Egg Group: Human-like
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 26
+Exp Value: 136
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+123	Scyther
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+70+C	110+B	80+C	55+D	80+C	105+B	10+F	+	+	6
+
+Type: Bug/flying
+Ability: Swarm Or Technician
+Evolution: 
+Egg Group: Bug
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 26
+Exp Value: 187
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+124	Jynx
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+65+C	50+D	35+E	115+B	95+C	95+C	10+F	+	+	6
+
+Type: Ice/psychic
+Ability: Forewarn Or Oblivious
+Evolution: 
+Egg Group: Human-like
+Gender Ratio: 0% Male, 100% Female 
+Egg Points to Hatch: 26
+Exp Value: 137
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+125	Electabuzz
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+65+C	83+C	57+D	95+C	85+C	105+B	10+F	+	+	6
+
+Type: Electric
+Ability: Static Or Vital Spirit
+Evolution: 
+Egg Group: Human-like
+Gender Ratio: 75% Male, 25% Female 
+Egg Points to Hatch: 26
+Exp Value: 156
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+126	Magmar
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+65+C	95+C	57+D	100+B	85+C	93+C	10+F	+	+	6
+
+Type: Fire
+Ability: Flame Body Or Vital Spirit
+Evolution: 
+Egg Group: Human-like
+Gender Ratio: 75% Male, 25% Female 
+Egg Points to Hatch: 26
+Exp Value: 167
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+127	Pinsir
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+65+C	125+A	100+B	55+D	70+D	85+C	10+F	+	+	6
+
+Type: Bug
+Ability: Hyper Cutter Or Mold Breaker
+Evolution: 
+Egg Group: Bug
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 26
+Exp Value: 200
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+128	Tauros
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+75+B	100+B	95+C	40+E	70+D	110+B	10+F	+	+	6
+
+Type: Normal
+Ability: Anger Point Or Intimidate
+Evolution: 
+Egg Group: Field
+Gender Ratio: 100% Male, 0% Female 
+Egg Points to Hatch: 21
+Exp Value: 211
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+129	Magikarp
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+20+E	10+E	55+D	15+E	20+E	80+C	10+F	+	+	6
+
+Type: Water
+Ability: Swift Swim Or Rattled
+Evolution: 
+Egg Group: Dragon And Water2
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 6
+Exp Value: 20
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+130	Gyrados
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+95+B	125+A	79+C	60+D	100+B	81+C	10+F	+	+	6
+
+Type: Water/flying
+Ability: Intimidate Or Moxie
+Evolution: 
+Egg Group: Dragon And Water2
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 6
+Exp Value: 214
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+131	Lapras
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+130+SS	85+C	80+C	85+C	95+C	60+D	10+F	+	+	6
+
+Type: Water/ice
+Ability: Shell Armor Or Water Absorb
+Evolution: 
+Egg Group: Monster And Water1
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 41
+Exp Value: 219
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+132	Ditto
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+48+D	48+E	48+E	48+E	48+E	48+E	10+F	+	+	6
+
+Type: Normal
+Ability: Limber Or Imposter
+Evolution: 
+Egg Group: Ditto
+Gender Ratio: Genderless
+Egg Points to Hatch: 21
+Exp Value: 61
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+133	Eevee
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+55+C	55+D	50+D	45+E	65+D	55+D	10+F	+	+	6
+
+Type: Normal
+Ability: Adaptabiity Or Run Away
+Evolution: 
+Egg Group: Field
+Gender Ratio: 87% Male, 13% Female 
+Egg Points to Hatch: 36
+Exp Value: 92
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+134	Vaporeon
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+130+SS	65+D	60+D	110+B	95+C	65+D	10+F	+	+	6
+
+Type: Water
+Ability: Water Absorb Or Hydration
+Evolution: 
+Egg Group: Field
+Gender Ratio: 87% Male, 13% Female 
+Egg Points to Hatch: 36
+Exp Value: 196
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+135	Jolteon
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+65+C	65+D	60+D	110+B	95+C	130+A	10+F	+	+	6
+
+Type: Electric
+Ability: Volt Absorb Or Quick Feet
+Evolution: 
+Egg Group: Field
+Gender Ratio: 87% Male, 13% Female 
+Egg Points to Hatch: 36
+Exp Value: 197
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+136	Flareon
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+65+C	130+A	60+D	95+C	110+B	65+D	10+F	+	+	6
+
+Type: Fire
+Ability: Flash Fire Or Guts
+Evolution: 
+Egg Group: Field
+Gender Ratio: 87% Male, 13% Female 
+Egg Points to Hatch: 36
+Exp Value: 198
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+137	Porygon
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+65+C	60+D	70+D	85+C	75+C	40+E	10+F	+	+	6
+
+Type: Normal
+Ability: Download Or Trace
+Evolution: 
+Egg Group: Mineral
+Gender Ratio: Genderless
+Egg Points to Hatch: 21
+Exp Value: 130
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+138	Omanyte
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+35+D	40+E	100+B	90+C	55+D	35+E	10+F	+	+	6
+
+Type: Rock/water
+Ability: Shell Armor Or Swift Swim
+Evolution: 
+Egg Group: Water1 And Water3
+Gender Ratio: 87% Male, 13% Female 
+Egg Points to Hatch: 31
+Exp Value: 99
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+139	Omastar
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+70+C	60+D	125+A	115+B	70+D	55+D	10+F	+	+	6
+
+Type: Rock/water
+Ability: Shell Armor Or Swift Swim
+Evolution: 
+Egg Group: Water1 And Water3
+Gender Ratio: 87% Male, 13% Female 
+Egg Points to Hatch: 31
+Exp Value: 199
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+140	Kabuto
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+30+D	80+C	90+C	55+D	45+E	55+D	10+F	+	+	6
+
+Type: Rock/water
+Ability: Battle Armor Or Swift Swim
+Evolution: 
+Egg Group: Water1 And Water3
+Gender Ratio: 87% Male, 13% Female 
+Egg Points to Hatch: 31
+Exp Value: 99
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+141	Kabutops
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+60+C	115+B	105+B	65+D	70+D	80+C	10+F	+	+	6
+
+Type: Rock/water
+Ability: Battle Armor Or Swift Swim
+Evolution: 
+Egg Group: Water1 And Water3
+Gender Ratio: 87% Male, 13% Female 
+Egg Points to Hatch: 31
+Exp Value: 199
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+142	Aerodactyl
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+80+B	105+B	65+D	60+D	75+C	130+A	10+F	+	+	6
+
+Type: Rock/flying
+Ability: Pressure Or Rock Head
+Evolution: 
+Egg Group: Flying
+Gender Ratio: 87% Male, 13% Female 
+Egg Points to Hatch: 36
+Exp Value: 202
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+143	Snorlax
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+160+X	110+B	65+D	65+D	110+B	30+E	10+F	+	+	6
+
+Type: Normal
+Ability: Immunity Or Thick Fat
+Evolution: 
+Egg Group: Monster
+Gender Ratio: 87% Male, 13% Female 
+Egg Points to Hatch: 41
+Exp Value: 154
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+144	Articuno
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+90+B	85+C	100+B	95+C	125+A	85+C	10+F	+	+	6
+
+Type: Ice/flying
+Ability: Pressure Or Snow Cloak
+Evolution: 
+Egg Group: Undiscovered
+Gender Ratio: Genderless
+Egg Points to Hatch: 81
+Exp Value: 215
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+145	Zapdos
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+90+B	90+C	85+C	125+A	90+C	100+B	10+F	+	+	6
+
+Type: Electric/flying
+Ability: Pressure Or Lightning Rod
+Evolution: 
+Egg Group: Undiscovered
+Gender Ratio: Genderless
+Egg Points to Hatch: 81
+Exp Value: 216
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+146	Moltres
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+90+B	100+B	90+C	125+A	85+C	90+C	10+F	+	+	6
+
+Type: Fire/flying
+Ability: Pressure Or Flame Body
+Evolution: 
+Egg Group: Undiscovered
+Gender Ratio: Genderless
+Egg Points to Hatch: 81
+Exp Value: 217
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+147	Dratini
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+41+D	64+D	45+E	50+D	50+D	50+D	10+F	+	+	6
+
+Type: Dragon
+Ability: Shed Skin Or Marvel Scale
+Evolution: 
+Egg Group: Dragon And Water1
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 41
+Exp Value: 67
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+148	Dragonair
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+61+C	84+C	65+D	70+D	70+D	70+D	10+F	+	+	6
+
+Type: Dragon
+Ability: Shed Skin Or Marvel Scale
+Evolution: 
+Egg Group: Dragon And Water1
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 41
+Exp Value: 144
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+149	Dragonite
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+91+B	134+A	95+C	100+B	100+B	80+C	10+F	+	+	6
+
+Type: Dragon/flying
+Ability: Inner Focus Or Multiscale
+Evolution: 
+Egg Group: Dragon And Water1
+Gender Ratio: 50% Male, 50% Female 
+Egg Points to Hatch: 41
+Exp Value: 218
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+150	Mewtwo
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+106+A	110+B	90+C	154+SS	90+C	130+A	10+F	+	+	6
+
+Type: Psychic
+Ability: Pressure Or Unnerve
+Evolution: 
+Egg Group: Undiscovered
+Gender Ratio: Genderless
+Egg Points to Hatch: 121
+Exp Value: 220
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+
+151	Mew
+HP		Att		Def		SAtt	SDef	Spd		Soc		Str		Int		Mov
+100+A	100+B	100+B	100+B	100+B	100+B	10+F	+	+	6
+
+Type: Psychic
+Ability: Synchronize
+Evolution: 
+Egg Group: Undiscovered
+Gender Ratio: Genderless
+Egg Points to Hatch: 121
+Exp Value: 65
+Level Move List
+
+TM/HM Move List: 
+
+Egg Move List: 
+

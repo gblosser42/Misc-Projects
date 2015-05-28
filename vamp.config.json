@@ -1,0 +1,137 @@
+{
+  "clans": {
+    "daeva": {
+      "physical": 2,
+      "social": 3,
+      "mental": 1,
+      "disciplines": [
+        "vigor",
+        "majesty",
+        "celerity"
+      ],
+      "unique": "majesty"
+    },
+    "gangrel": {
+      "physical": 3,
+      "social": 2,
+      "mental": 1,
+      "disciplines": [
+        "animalism",
+        "protean",
+        "resilience"
+      ],
+      "unique": "protean"
+    },
+    "mekhet": {
+      "physical": 1,
+      "social": 2,
+      "mental": 3,
+      "disciplines": [
+        "celerity",
+        "auspex",
+        "obfuscate"
+      ],
+      "unique": "auspex"
+    },
+    "nosferatu": {
+      "physical": 3,
+      "social": 1,
+      "mental": 2,
+      "disciplines": [
+        "nightmare",
+        "obfuscate",
+        "vigor"
+      ],
+      "unique": "nightmare"
+    },
+    "ventrue": {
+      "physical": 1,
+      "social": 3,
+      "mental": 2,
+      "disciplines": [
+        "dominate",
+        "animalism",
+        "resilience"
+      ],
+      "unique": "dominate"
+    }
+  },
+  "covenants": {
+    "carthian movement": {
+      "physical": 2,
+      "social": 3,
+      "mental": 1
+    },
+    "circle of the crone": {
+      "physical": 3,
+      "social": 2,
+      "mental": 2
+    },
+    "lancea et sanctum": {
+      "physical": 1,
+      "social": 2,
+      "mental": 3
+    },
+    "invictus": {
+      "physical": 1,
+      "social": 3,
+      "mental": 2
+    },
+    "ordo dracul": {
+      "physical": 2,
+      "social": 1,
+      "mental": 3
+    }
+  },
+  "masquerades": [
+    "authoritarian",
+    "child",
+    "competitor",
+    "conformist",
+    "conspirator",
+    "courtesan",
+    "cult leader",
+    "deviant",
+    "follower",
+    "guru",
+    "idealist",
+    "jester",
+    "junkie",
+    "martyr",
+    "masochist",
+    "monster",
+    "nomad",
+    "nurturer",
+    "perfectionist",
+    "penitent",
+    "questioner",
+    "rebel",
+    "scholar",
+    "social chameleon",
+    "spy",
+    "suvivor",
+    "visionary"
+  ],
+  "touchstones": [
+    "ex",
+    "orphan",
+    "witness",
+    "victim's lover",
+    "house of birth",
+    "grave"
+  ],
+  "disciplines": [
+    "animalism",
+    "celerity",
+    "vigor",
+    "resilience",
+    "obfuscate"
+  ],
+  "rareDisciplines": [
+    "majesty",
+    "protean",
+    "auspex",
+    "nightmare",
+    "dominate"
+  ]
+}
