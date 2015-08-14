@@ -37,7 +37,8 @@ character = {
 	requiem: masquerades[randomIntInc(0, masquerades.length - 1)],
 	touchstone: touchestones[randomIntInc(0, touchestones.length - 1)],
 	defense: '',
-	willpower: ''
+	willpower: '',
+	health: ''
 };
 
 while (character.masquerade === character.requiem) {
@@ -125,5 +126,10 @@ if (!!character.disciplines.celerity) {
 	character.defense += character.disciplines.celerity;
 }
 character.willpower = Math.ceil(character.social / 2) + Math.ceil(character.mental / 2) - 2;
+
+character.health = Math.ceil(character.physical / 2) + 4;
+if (!!character.disciplines.resilience) {
+	character.health += (2 * character.disciplines.resilience);
+}
 
 console.log(character);
